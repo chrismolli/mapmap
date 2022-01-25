@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+
+  web:
+    build: frontend
+    ports:
+      - "8180:80"
+
+  backend:
+    build: backend
+    ports:
+      - "5000:5000"
+
+  database:
+    build: database
+    ports:
+      - "5432:5432"
