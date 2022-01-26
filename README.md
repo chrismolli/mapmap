@@ -2,7 +2,7 @@
 Experimenting with Containerization, Microservices and REST APIs.
 
 <p align="center">
-  <img src="img/preview.png" align="center" width="512">
+  <img src="img/preview.png" align="center" width="512"><br>
   A view of the frontend.
 </p>
 
